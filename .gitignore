@@ -1,0 +1,13 @@
+# Environment variables
+.env
+.venv
+venv/
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
